@@ -1,2 +1,2 @@
-# ad-Ads
-Clone
+
+https://github.com/xF346x/adBOT
